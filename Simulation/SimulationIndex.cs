@@ -1,0 +1,20 @@
+public enum SimulationIndex
+{
+    None,
+    EnemyMoreDamage,
+    EnemyMoreHealth,
+    ActivityTimerMalus,
+    SectorTimer,
+    EnableHeartStalker,
+    HeartStalkerTimer,
+    HeartStalkerActivityBonus,
+    EnemyArmor,
+    DisableUI,
+    EnableTimerActivity,
+    ReverseKeySeries,
+    TheEnd,
+    RandomKeySeries,
+    IncreaseSectorWidth,
+    ReverseRooms,
+    DamageKeySeries
+}

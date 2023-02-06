@@ -1,0 +1,24 @@
+public enum KeyIndex
+{
+    None,
+    rightShoulder,
+    leftShoulder,
+    buttonNorth,
+    buttonSouth,
+    buttonEast,
+    buttonWest,
+    leftStickButton,
+    rightStickButton,
+    A,
+    Z,
+    E,
+    R,
+    Q,
+    S,
+    D,
+    F,
+    W,
+    X,
+    C,
+    V
+}
